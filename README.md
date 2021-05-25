@@ -1,6 +1,7 @@
 # BlockChainText
 The Python program implements an API call to store your text files in an IPFS server!!!
 
+Built with Python and TKinter, supposed to be an 'OS' related project, so added a little bit of local file handling up there.
 
 ## Execution:
 
